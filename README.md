@@ -1,2 +1,2 @@
 # rest05
-claude dsign
+claude design
