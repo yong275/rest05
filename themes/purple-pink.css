@@ -1,0 +1,6 @@
+/* 테마: 보라 · 핑크 */
+:root{
+  --blue-700:#6D3DD6; --blue-600:#8B5CF6; --blue-500:#A480FA; --blue-300:#D4C2FD;
+  --sky:#EFE9FE; --sky-2:#F7F4FE;
+  --yellow:#FF6FB0; --yellow-soft:#FFE2EF; --on-yellow:#7a1742;
+}

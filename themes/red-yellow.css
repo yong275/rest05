@@ -1,0 +1,6 @@
+/* 테마: 빨강 · 노랑 */
+:root{
+  --blue-700:#C62B25; --blue-600:#EE4B43; --blue-500:#FF7169; --blue-300:#FFB7B2;
+  --sky:#FFEAE8; --sky-2:#FFF4F3;
+  --yellow:#FFC02E; --yellow-soft:#FFF0CE; --on-yellow:#6a4400;
+}
