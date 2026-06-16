@@ -1,0 +1,6 @@
+/* 테마: 초록 · 노랑 */
+:root{
+  --blue-700:#0E8C5A; --blue-600:#16A86C; --blue-500:#3CC489; --blue-300:#A7E6CC;
+  --sky:#E2F6EC; --sky-2:#F1FBF5;
+  --yellow:#FFB72B; --yellow-soft:#FFF1D2; --on-yellow:#5a3a00;
+}

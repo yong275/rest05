@@ -1,0 +1,6 @@
+/* 테마: 청록 · 코랄 */
+:root{
+  --blue-700:#0E8FA8; --blue-600:#16A9C6; --blue-500:#46C2D9; --blue-300:#AEE6F0;
+  --sky:#E2F6FA; --sky-2:#F1FBFD;
+  --yellow:#FF6B5C; --yellow-soft:#FFE6E2; --on-yellow:#6a1f16;
+}
