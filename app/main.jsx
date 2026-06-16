@@ -15,6 +15,7 @@ function App() {
       <Header route={route} />
       <Page key={route} />
       <Footer />
+      <ChatWidget />
     </React.Fragment>
   );
 }

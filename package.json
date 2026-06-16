@@ -1,0 +1,11 @@
+{
+  "name": "tori-kids",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d . -b gh-pages --dotfiles --no-history"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
